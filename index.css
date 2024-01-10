@@ -126,6 +126,8 @@ img {
 
 .img-project {
   width: 500px;
+  border: 2px solid var(--secondary-color);
+  background-color: #bdc7cb;
 }
 footer {
   margin: 60px 0;
@@ -161,7 +163,7 @@ footer .social-links a {
 }
 
 footer .social-links a:hover {
-  color: white;
+  color: var(--secondary-color);
   background-color: var(--primary-color);
 }
 
