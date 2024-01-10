@@ -58,7 +58,7 @@ p {
   font-size: 64px;
   line-height: 80px;
   background-color: var(--secondary-color);
-  padding: 160px 20px;
+  padding: 100px 20px;
 }
 
 .content h2 {
@@ -113,6 +113,22 @@ img {
 
 .img-project {
   width: 500px;
+}
+
+/* navbar */
+
+nav {
+  margin-top: 6px;
+  background-color: #bdc7cb;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.nav-link {
+  color: var(--primary-color);
+  margin: 4px;
 }
 
 @media (max-width: 600px) {
