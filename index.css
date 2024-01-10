@@ -13,7 +13,6 @@ body {
   text-align: center;
 }
 
-h1,
 h2,
 h4,
 p {
@@ -60,6 +59,10 @@ p {
 }
 
 .content h1 {
+  color: white;
+  font-family: var(--heading-font-family);
+  font-weight: bold;
+  text-align: center;
   font-size: 64px;
   line-height: 80px;
   background-color: var(--hero-color);
