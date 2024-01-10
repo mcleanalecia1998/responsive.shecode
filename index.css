@@ -177,7 +177,7 @@ nav {
 
 .navbar-brand {
   font-size: 30px;
-  color: var(--teritary-color);
+  font-family: var(--heading-font-family);
 }
 
 .nav-link {
