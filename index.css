@@ -173,7 +173,7 @@ nav {
 }
 
 .nav-link {
-  color: var(--primary-color);
+  color: var(--hero-color);
   margin: 4px;
 }
 
