@@ -2,6 +2,7 @@
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
   --teritary-color: #272142;
+  --hero-color: #d8a3dd;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
@@ -41,7 +42,7 @@ p {
 }
 
 .hero {
-  background-color: var(--secondary-color);
+  background-color: var(--hero-color);
   text-align: center;
   padding: 160px 20px;
 }
