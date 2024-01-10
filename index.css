@@ -109,6 +109,7 @@ p {
 }
 
 .btn-branding-outline:hover {
+  color: var(--secondary-color);
   background-color: var(--primary-color);
 }
 
