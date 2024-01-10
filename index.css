@@ -176,12 +176,13 @@ nav {
 }
 
 .navbar-brand {
-  font-size: 30px;
+  font-size: 35px;
   font-family: var(--heading-font-family);
 }
 
 .nav-link {
   color: var(--primary-color);
+  font-family: var(--heading-font-family);
   margin: 4px;
 }
 
